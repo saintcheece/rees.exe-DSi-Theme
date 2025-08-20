@@ -5,7 +5,7 @@ For **splashboot installation**, copy/move the contents from `Custom Splash\extr
 
 For **theme installation**, copy/move the `rees.exe` folder to `[ROOT]\_nds\TWiLightMenu\dsimenu\themes\`
 
-The theme is inspired by the Pip-Boy from the Fallout franchise and uses the fictional device's sound effects for navigation.
+The theme is inspired by the Pip-Boy from the Fallout franchise and uses the fictional device's sound effects for navigation provided by the [resources uploaded by Inthegrave](https://www.sounds-resource.com/pc_computer/fallout3/sound/7029/).
 
 It also uses an [orchestral cover of the DSi shop by Jacob Shay](https://youtu.be/VZgXNPRJJPY?feature=shared) to fit the 50's style.
 
