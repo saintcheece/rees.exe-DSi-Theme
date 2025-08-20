@@ -30,3 +30,13 @@ If you want to disable the music and only hear the white noises:
 - [Audacity](https://www.audacityteam.org/) for creating custom sfx.
 - [Krita](https://krita.org/en/) for animating the splashscreen.
 - [ezgif](https://ezgif.com/) for modifying the properties of the custom splash screen.
+
+## Remarks
+Too busy to modify even more things, though will later apply the following things in the future:
+- polish the icons since a slight change in opacity will make a pixel disapear on the DS
+- create a custom font that mimics the font in pip-boy's better
+- change the layout of the top bar. (time, date, name)
+- change the rest of the assets (loading animation)
+- add more icons, specifically for media (videos, music, ebooks), other consoles (Atari 2600, Sega Genesis) and other series (Final Fantasy, Dragon Quest)
+- prevent changing of colors so you won't need to change system color
+- add sounds to bootsplash (if you know how, please contact me. huhu)
