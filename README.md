@@ -8,11 +8,11 @@ It also uses an [orchestral cover of the DSi Shop by Jacob Shay](https://youtu.b
 ## Installation
 For **theme installation**, copy/move the `rees.exe` folder to `[ROOT]\_nds\TWiLightMenu\dsimenu\themes\`
 
-⚠️ NOTE: If you haven't already, enable the use of Custom Themes under GUI Settings.
+⚠️ NOTE: If you haven't already, [enable the use of Custom Themes](https://wiki.ds-homebrew.com/twilightmenu/faq?faq=how-do-i-install-custom-themes-for-twilight-menu).
 
 For **splashboot installation**, copy/move the contents from `Custom Splash\extras` to your SD Card's `[ROOT]\_nds\TWiLightMenu\extras\`
 
-⚠️ NOTE: If you haven't already, enable the use custom DSi Splash Screen under GUI Settings.
+⚠️ NOTE: If you haven't already, [enable the use custom DSi Splash Screen](https://wiki.ds-homebrew.com/twilightmenu/custom-boot-splashes).
 
 💡 TIP: For better results, change the system color under your DSi's System Settings to orange. 
 
