@@ -1,5 +1,5 @@
 # rees.exe-DSi-Theme
-my personal DSi theme for the system's custom firmware [TwilightMenu++ by RocketRobz](https://wiki.ds-homebrew.com/twilightmenu/). It modified the bootsplash, background, icons, and sfxs.
+my personal DSi theme for the system's custom firmware [TwilightMenu++ by RocketRobz](https://wiki.ds-homebrew.com/twilightmenu/). It modified the bootsplash, background, assets, icons, and sfxs.
 
 The theme is inspired by the Pip-Boy from the Fallout franchise and uses the fictional device's sound effects for navigation archived by [Inthegrave](https://www.sounds-resource.com/pc_computer/fallout3/sound/7029/).
 
@@ -9,6 +9,8 @@ It also uses an [orchestral cover of the DSi Shop by Jacob Shay](https://youtu.b
 For **theme installation**, copy/move the `rees.exe` folder to `[ROOT]\_nds\TWiLightMenu\dsimenu\themes\`
 
 ⚠️ NOTE: If you haven't already, [enable Custom Themes under GUI Settings](https://wiki.ds-homebrew.com/twilightmenu/faq?faq=how-do-i-install-custom-themes-for-twilight-menu).
+
+For **icon installation**, copy the contents of `icons` folder to `[ROOT]\_nds\TWiLightMenu\icons` and name the folders accordingly. (EXAMPLE: if you have a folder for Pokemon games in your SD Card, name the folder `Pokemon Collection` for the custom icon to apply)
 
 For **splashboot installation**, copy/move the contents from `Custom Splash\extras` to your SD Card's `[ROOT]\_nds\TWiLightMenu\extras\`
 
@@ -24,7 +26,7 @@ If you want to disable the music and only hear the white noises:
 2. Rename the `humonlybgm.wav` to `bgm.wav`
 
 ## Tools Used
-- [GIMP](https://www.gimp.org/) for editing icons and backgrounds.
+- [GIMP](https://www.gimp.org/) for editing icons, assets, and backgrounds.
 - [Audacity](https://www.audacityteam.org/) for creating custom sfx.
 - [Krita](https://krita.org/en/) for animating the splashscreen.
 - [ezgif](https://ezgif.com/) for modifying the properties of the custom splash screen.
