@@ -23,3 +23,8 @@ If you want to disable the music and only hear the white noises:
     - if you might consider going back, rename it something else (eg: `old.wav`) then proceed to the next step.
 2. Rename the `humonlybgm.wav` to `bgm.wav`
 
+## Tools Used
+- [GIMP](https://www.gimp.org/) for editing icons and backgrounds.
+- [Audacity](https://www.audacityteam.org/) for creating custom sfx.
+- [Krita](https://krita.org/en/) for animating the splashscreen.
+- [ezgif](https://ezgif.com/) for modifying the properties of the custom splash screen.
