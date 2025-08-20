@@ -5,12 +5,12 @@ The theme is inspired by the Pip-Boy from the Fallout franchise and uses the fic
 
 It also uses an [orchestral cover of the DSi Shop by Jacob Shay](https://youtu.be/VZgXNPRJJPY?feature=shared) to fit the 50's style.
 
-#### Installation
+### Installation
 For **splashboot installation**, copy/move the contents from `Custom Splash\extras` to your SD Card's `[ROOT]\_nds\TWiLightMenu\extras\`
 
 For **theme installation**, copy/move the `rees.exe` folder to `[ROOT]\_nds\TWiLightMenu\dsimenu\themes\`
 
-#### Modifications
+### Modifications
 If you want to disable the music and only hear the white noises:
 1. Get rid of the initial `bgm.wav` you can do this by doing either of the following:
     - if you don't mind, delete it then move on to the next step.
